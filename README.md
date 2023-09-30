@@ -47,6 +47,7 @@ Below is a list of the current actions cards may have
 <img width="40" alt="image" src="https://github.com/MetaMelee/docs/assets/37962510/69c4ab3f-1f14-4226-89ad-ea0992b0b7a2">
 Regular attack: Attack a single opponents card
 
+
 <img width="37" alt="image" src="https://github.com/MetaMelee/docs/assets/37962510/8ca251f1-62fd-464f-80e3-d4c74b141f93">
 Splash attack: target a single card to attack it, and also attack cards next to it with the same damage
 
@@ -54,6 +55,7 @@ Splash attack: target a single card to attack it, and also attack cards next to 
 
 <img width="42" alt="image" src="https://github.com/MetaMelee/docs/assets/37962510/c0c96cb1-5115-41f2-baaf-9a71a6cc78ed">
 Regular heal: Heal one of your own cards
+
 
 <img width="41" alt="image" src="https://github.com/MetaMelee/docs/assets/37962510/60066b3e-2f08-49f2-b143-bf1056280674">
 Splash heal: Heal one of your own cards, and also heal cards next to is with the same health
